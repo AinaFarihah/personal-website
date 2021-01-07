@@ -1,0 +1,39 @@
+body
+
+
+p
+{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:30px;
+    color:black;
+}
+
+    h1
+    {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size:30px;
+    }
+    h2
+    {
+        font-family: 'Varela Round', sans-serif;
+        font-size: 25px;
+        color:black;
+    }
+
+    h4
+    {
+        font-family: 'Varela Round', sans-serif;
+        font-size: 20px;
+        color:black;
+    }
+    h5
+    {
+        font-family: 'Varela Round', sans-serif;
+        font-size: 20px;
+        color:black;
+    }
+    h6
+    {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size:15px;
+    }
